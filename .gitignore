@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WPFControls/demo/obj
+/WPFControls/demo/bin/Debug/net6.0-windows
+/WPFControls/src/obj
+/WPFControls/src/bin/Debug/net6.0-windows
+/.vs
