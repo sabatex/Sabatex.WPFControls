@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WPFControls", "WPFControls", "{FEE79C56-A273-468F-902F-55BECBEA4F54}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF.Controls.Demo", "WPFControls\demo\WPF.Controls.Demo.csproj", "{C1C68C88-AA89-4216-8206-5A3072055F74}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF.Controls", "WPFControls\src\WPF.Controls.csproj", "{C910CBFD-8F22-44CB-B4F7-A7B0854CD289}"
@@ -26,10 +24,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{C1C68C88-AA89-4216-8206-5A3072055F74} = {FEE79C56-A273-468F-902F-55BECBEA4F54}
-		{C910CBFD-8F22-44CB-B4F7-A7B0854CD289} = {FEE79C56-A273-468F-902F-55BECBEA4F54}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3E36D6B0-3A22-4AD1-A166-1CD9DD8591D6}
