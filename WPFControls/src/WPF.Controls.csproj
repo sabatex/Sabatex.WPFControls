@@ -18,8 +18,8 @@
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <PackageTags>#WPF #Controls</PackageTags>
     <PackageReleaseNotes>Migrate from ntics</PackageReleaseNotes>
-    <AssemblyName>sabatex.WPF.Controls</AssemblyName>
-    <RootNamespace>sabatex.WPF.Controls</RootNamespace>
+    <AssemblyName>Sabatex.WPF.Controls</AssemblyName>
+    <RootNamespace>Sabatex.WPF.Controls</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
